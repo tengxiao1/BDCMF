@@ -1,5 +1,4 @@
 # BDCMF
-
 The is the code for"Bayesian Deep Collaborative Matrix Factorization(BDCMF)" (AAAI 2019). It consists of two parts: a Matlab component and a Python component. 
 
 Requirements:
